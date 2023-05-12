@@ -1,3 +1,5 @@
+package Day1;
+
 import java.util.Scanner;
 class MyStack{
     //存储数据
