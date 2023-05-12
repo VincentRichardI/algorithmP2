@@ -41,5 +41,6 @@ public class DeleteDuplicates2 {
             cur = cur.next;
         }
         return dummy.next;
+        //THIS IS TEST!!!!!!!!!!!!!
     }
 }
